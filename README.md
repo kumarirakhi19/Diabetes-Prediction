@@ -52,6 +52,15 @@ To build a model to predict whether an individual is at risk of diabetes or not.
 ## Exploring of project
 Diabetes  is among critical diseases and lots of people are suffering from this disease. Age, obesity, lack of exercise, hereditary diabetes, living style, bad diet, high blood pressure, etc. can cause Diabetes Mellitus.People having diabetes have high risk of diseases like heart disease, kidney disease, stroke, eye problem, nerve damage, etc. Current practice in hospital is to collect required information for diabetes diagnosis through various tests and appropriate treatment is provided based on diagnosis
 
+## CONCLUSION
+
+1.Glucose, Age, gender and high blood pressure a are the most important factors in identifying persons who are at risk of diabetes. Other variables' importance is not significant
+
+2.Identifying the risk of diabetes at early stages, especially among woman, can help to control the disease and prevent the second health problems.
+
+3 Due to less data set variable are giving proper result. on Eda , show that active ,alco,cholesterol not impacted on target variable. i am not sataisfiy with this result .so training dataset ia less need some more information for better accuracy.finally Glucose ,Age should be given importance in identifying high risk patients.
+
+
 
   
 
