@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 
 <img width="400" alt="Endocrinology-Diabetes" src="https://github.com/kumarirakhi19/Diabetes-Prediction/assets/89589216/d13ab01c-903f-4e3f-8a80-1fb848d67017">
-                        ## Problem statement
+## Problem statement
   
   
   Diabetes is one of the most frequent diseases worldwide and the number of diabetic patients is growing over the years. The main cause of diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a major role in diabetes.
@@ -26,9 +26,7 @@ To build a model to predict whether an individual is at risk of diabetes or not.
 10gender: male/Female
 11.diabetes = Target variable
 
-
-
-       ##pipeline of project
+##pipeline of project
 
 1.Download the dataset
 2.Datacleaning and Feature engineering :check null value in dataset and outlier treatment or arrange the column in proper manner.
@@ -37,20 +35,23 @@ To build a model to predict whether an individual is at risk of diabetes or not.
 5.test data ia prepared for implementing the model
 6.Model implementation
 7.Evaluation matrix : for checking our model is performing well or not.use confusion matrix for evaluation
+8.result or conclusion
   
   
-## chalenges of model
+### challenges of model
 
 1. Data is dirty .need more time on data cleaning
 2. training dataset is less
 3. dataset is four part csv file,need to combine
 
 
-##  Need improvement : Due lack of time .very less time given on eda or model.
+###  Need improvement : Due lack of time .very less time given on eda or model.
 1. Required more eda on dataset
 2. implement more model to check accuracy.
 
-Exploring of project
+## Exploring of project
+Diabetes  is among critical diseases and lots of people are suffering from this disease. Age, obesity, lack of exercise, hereditary diabetes, living style, bad diet, high blood pressure, etc. can cause Diabetes Mellitus.People having diabetes have high risk of diseases like heart disease, kidney disease, stroke, eye problem, nerve damage, etc. Current practice in hospital is to collect required information for diabetes diagnosis through various tests and appropriate treatment is provided based on diagnosis
+
 
   
 
