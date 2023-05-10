@@ -45,7 +45,7 @@ To build a model to predict whether an individual is at risk of diabetes or not.
 3. dataset is four part csv file,need to combine
 
 
-###  Need improvement : Due lack of time .very less time given on eda or model.
+####  Need improvement : Due lack of time very less time given on eda or model implementation.
 1. Required more eda on dataset
 2. implement more model to check accuracy.
 
