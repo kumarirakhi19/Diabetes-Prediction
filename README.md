@@ -54,12 +54,20 @@ Diabetes  is among critical diseases and lots of people are suffering from this 
 
 ## CONCLUSION
 
-1.Glucose, Age, gender and high blood pressure a are the most important factors in identifying persons who are at risk of diabetes. Other variables' importance is not significant
+1. Chance of diabetes is more in female.
+2. High level cholesterol chance of diabetes is more.
+3. Level of glucose increases diabetes chance is increases.
+4. smoker have more chance of diabetes.
+5. Alcoholic person has more chance of diabetes.
+6. Active person has less chance of Diabetes.
+7. At low pressure has less chance of Diabetes,but high pressure has high chance of diabetes.
+8. for numeric dataset
 
-2.Identifying the risk of diabetes at early stages, especially among woman, can help to control the disease and prevent the second health problems.
+1.Age ,weight,high pressure increses diabetes increases. height and low blood pressure do not impact on these diseases.
 
-3 Due to less data set variable are giving proper result. on Eda , show that active ,alco,cholesterol not impacted on target variable. i am not sataisfiy with this result .so training dataset ia less need some more information for better accuracy.finally Glucose ,Age should be given importance in identifying high risk patients.
+9.when we graph between variable i found only relationship between height and weight .height increases weight increases.
 
+10.Logistic regression performing well without hyperparameter tunning as well as after hypertunning.but after hyperparameter tunning our accuracy level increases.
 
 
   
